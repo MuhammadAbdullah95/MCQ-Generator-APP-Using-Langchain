@@ -1,0 +1,15 @@
+langchain_community 
+tiktoken  
+langchainhub 
+langchain  
+python-dotenv
+google-generativeai
+langchain-google-genai
+langchain-groq
+langchain-nomic
+langchain-text-splitters
+langchain_mistralai
+langchain_huggingface
+sentence_transformers
+streamlit
+PyPDF2
