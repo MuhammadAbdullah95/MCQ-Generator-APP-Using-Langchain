@@ -1,11 +1,9 @@
 openai
-langchain_community   
-langchain  
+langchain
+streamlit
 python-dotenv
+PyPDF2
+langchain_community
 google-generativeai
 langchain-google-genai
 langchain-groq
-streamlit
-PyPDF2
-
--e .

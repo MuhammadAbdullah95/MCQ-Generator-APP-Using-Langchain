@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: mcqgenrator
+Version: 0.0.1
+Author: Muhammad Abdullah
+Author-email: aideveloper453@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Requires-Dist: langchain_community
+Requires-Dist: google-generativeai
+Requires-Dist: langchain-google-genai
+Requires-Dist: langchain-groq
