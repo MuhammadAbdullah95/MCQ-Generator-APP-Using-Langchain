@@ -1,11 +1,11 @@
 MCQ,Choices,Correct
-"Who first used the term ""data science"" as an alternative to statistics?",a: John Tukey | b: Peter Naur | c: C. F. Jeff Wu | d: William S. Cleveland,c
-"In what year did C. F. Jeff Wu first suggest using ""data science"" as a replacement for ""statistics""?",a: 1974 | b: 1985 | c: 1997 | d: 2001,c
-Which year saw the International Federation of Classification Societies first feature data science as a conference topic?,a: 1992 | b: 1996 | c: 1998 | d: 2002,b
-What popular terms were used in the 1990s to describe the process of finding patterns in large datasets?,a: Data analysis and data mining | b: Knowledge discovery and data mining | c: Big data and data science | d: Statistical learning and data science,b
-"Who declared ""Data Scientist: The Sexiest Job of the 21st Century"" in 2012?",a: Jeff Hammerbacher and William S. Cleveland | b: Thomas H. Davenport and DJ Patil | c: Peter Naur and Hayashi Chikio | d: John Tukey and C. F. Jeff Wu,b
-Which year did the American Statistical Association's Section on Statistical Learning and Data Mining change its name to reflect the growing popularity of data science?,a: 2002 | b: 2003 | c: 2014 | d: 2008,c
-"To whom is the professional title of ""data scientist"" often attributed, starting around 2008?",a: Thomas H. Davenport and DJ Patil | b: DJ Patil and Jeff Hammerbacher | c: William S. Cleveland and C. F. Jeff Wu | d: Peter Naur and Hayashi Chikio,b
-"In what year did William S. Cleveland advocate for expanding statistics beyond theory into technical areas, suggesting a name change was warranted?",a: 1997 | b: 2001 | c: 2002 | d: 2008,b
-"According to the text, what is a related marketing term often associated with data science?",a: Knowledge discovery | b: Data mining | c: Big data | d: Statistical learning,c
-"In 1962, who described a field resembling modern data science, calling it ""data analysis""?",a: C. F. Jeff Wu | b: John Tukey | c: William S. Cleveland | d: DJ Patil,b
+"Who is credited with describing a field called 'data analysis' in 1962, which resembles modern data science?",a: C. F. Jeff Wu | b: John Tukey | c: Peter Naur | d: William S. Cleveland,b
+In what year did C. F. Jeff Wu use the term 'data science' for the first time as an alternative name for statistics?,a: 1974 | b: 1985 | c: 1992 | d: 1997,b
+What was the name of the journal launched by the Committee on Data for Science and Technology in 2002?,a: The Journal of Data Science | b: Data Science Journal | c: Statistics Journal | d: Data Analysis Journal,b
+Who is sometimes attributed with the modern conception of data science as an independent discipline?,a: DJ Patil | b: William S. Cleveland | c: John Tukey | d: C. F. Jeff Wu,b
+What was the title of the paper written by Thomas H. Davenport and DJ Patil in 2012?,a: Data Science: The Future of Statistics | b: Data Scientist: The Sexiest Job of the 21st Century | c: The Emergence of Data Science | d: Data Analysis: A New Field,b
+In what year did the American Statistical Association's Section on Statistical Learning and Data Mining change its name to the Section on Statistical Learning and Data Science?,a: 2005 | b: 2008 | c: 2010 | d: 2014,d
+Who is credited with proposing the term 'data science' as an alternative name to computer science in 1974?,a: Peter Naur | b: John Tukey | c: C. F. Jeff Wu | d: William S. Cleveland,a
+What are the three aspects of data science according to Hayashi Chikio?,"a: Data design, collection, and analysis | b: Data mining, knowledge discovery, and statistics | c: Data science, machine learning, and artificial intelligence | d: Data analysis, data visualization, and data mining",a
+Who are credited with the professional title of 'data scientist' in 2008?,a: DJ Patil and Jeff Hammerbacher | b: John Tukey and C. F. Jeff Wu | c: William S. Cleveland and Peter Naur | d: Thomas H. Davenport and DJ Patil,a
+What is the role of data scientists according to the text?,a: To manage digital data collections | b: To break down big data into usable information and create software and algorithms | c: To perform statistical analysis only | d: To work on data mining and knowledge discovery only,b
