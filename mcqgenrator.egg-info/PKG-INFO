@@ -1,4 +1,4 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.2
 Name: mcqgenrator
 Version: 0.0.1
 Author: Muhammad Abdullah
@@ -12,3 +12,6 @@ Requires-Dist: langchain_community
 Requires-Dist: google-generativeai
 Requires-Dist: langchain-google-genai
 Requires-Dist: langchain-groq
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
