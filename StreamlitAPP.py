@@ -12,10 +12,44 @@ from src.mcqgenerator.logger import logging
 
 # loading json file
 
-with open("D:\AppliedGenAI\Python\mcqgen\Response.json", "r") as file:
-    RESPONSE_JSON = json.load(file)
+# with open("D:\AppliedGenAI\Python\mcqgen\Response.json", "r") as file:
+#     RESPONSE_JSON = json.load(file)
 
-st.title("MCQ Generator App using Langchain")
+RESPONSE_JSON = {
+    "1": {
+        "mcq": "multiple choice question",
+        "options": {
+            "a": "choice here",
+            "b": "choice here",
+            "c": "choice here",
+            "d": "choice here",
+        },
+        "correct": "correct answer",
+    },
+    "2": {
+        "mcq": "multiple choice question",
+        "options": {
+            "a": "choice here",
+            "b": "choice here",
+            "c": "choice here",
+            "d": "choice here",
+        },
+        "correct": "correct answer",
+    },
+    "3": {
+        "mcq": "multiple choice question",
+        "options": {
+            "a": "choice here",
+            "b": "choice here",
+            "c": "choice here",
+            "d": "choice here",
+        },
+        "correct": "correct answer",
+    },
+}
+
+st.title("MCQ Generator App using Langchain 🦜🔗")
+st.caption("Developed By Muhammad ABbdullah")
 # Create a form using st.form
 with st.form("user input"):
     # File upload
@@ -63,6 +97,7 @@ with st.form("user input"):
                 if isinstance(response, dict):
                     # Extract the Quiz data From the response
                     quiz = response.get("quiz", None)
+                    print(quiz)
                     if quiz is not None:
                         table_data = get_table_data(quiz)
                         if table_data is not None:

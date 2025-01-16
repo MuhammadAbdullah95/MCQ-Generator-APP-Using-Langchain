@@ -30,8 +30,9 @@ create a quiz  of {number} multiple choice questions for {subject} students in {
 Make sure the questions are not repeated and check all the questions to be conforming the text as well.
 Make sure to format your response like  RESPONSE_JSON below  and use it as a guide. \
 Ensure to make {number} MCQs
-### RESPONSE_JSON
-{response_json}
+### RESPONSE_JSON 
+{response_json} make sure it is in proper json format that can easily be converted into python dictionary using json.loads() 
+free from backticks and any other text formating that can cause problem during conversion
 
 """
 
